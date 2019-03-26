@@ -35,6 +35,8 @@
 #include <visualization_msgs/InteractiveMarkerControl.h>
 #include <stdexcept>
 #include <sstream>
+#include <iostream>
+#include <memory>
 
 
 class TransformSender {
